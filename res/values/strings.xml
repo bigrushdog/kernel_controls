@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">Kernel Controls</string>
+    <string name="kernel_controls">Kernel Controls</string>
+    <string name="boot_settings">Boot Settings</string>
+    <string name="bootloop_prevent_enable">Bootloop Protection</string>
+    <string name="bootloop_prevent_enable_summary">Values will not be applied on boot if device experiences reboots less than 4 minutes apart</string>
+    <string name="eos_performance_cpu">CPU Clocks</string>
+    <string name="eos_performance_cpu_on_boot">Apply kernel values on boot</string>
+    <string name="eos_performance_cpu_governor">Governor</string>
+    <string name="eos_performance_cpu_min">Min</string>
+    <string name="eos_performance_cpu_max">Max</string>
+    <string name="eos_performance_cpu_max_screen_off">Screen Off Max</string>
+    <string name="eos_performance_current_value">Current value: </string>
+    <string name="eos_performance_iosched">I/O scheduler</string>
+    <string name="eos_performance_fast_charge">USB Fast Charge</string>
+    <string name="eos_performance_sweep2wake">Sweep2Wake</string>
+    <string name="eos_performance_sweep2wake_on_boot">Start on boot</string>
+    <string name="eos_performance_zram_category">ZRAM</string>
+    <string name="eos_performance_zram_title">Enable ZRAM</string>
+    <string name="eos_performance_zram_summary">10% of RAM will be used as swap space</string>
+    <string name="eos_performance_not_applied">Bootloop Protection activated</string>
+    <string name="eos_performance_notification_title">Kernel Controls</string>
+    <string name="eos_performance_notification_text">Values not applied due to recent reboot.</string>
+
+</resources>
